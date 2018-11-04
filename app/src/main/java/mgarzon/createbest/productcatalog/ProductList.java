@@ -2,6 +2,7 @@ package mgarzon.createbest.productcatalog;
 
 /**
  * Created by Miguel Garzón on 2017-05-09.
+ * Modified by Emad
  */
 import android.app.Activity;
 import android.view.LayoutInflater;
